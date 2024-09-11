@@ -39,6 +39,10 @@ def sacar():
     print('Saque realizado com sucesso!')
 
 
+def visualizar_extrato():
+    pass
+
+
 while True:
 
     opcao = input(menu)
